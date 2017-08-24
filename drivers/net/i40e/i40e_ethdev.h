@@ -41,7 +41,7 @@
 #include <rte_flow_driver.h>
 #include <rte_tm_driver.h>
 
-#include "base/virtchnl.h"
+//#include "base/virtchnl.h"
 
 #define I40E_VLAN_TAG_SIZE        4
 
